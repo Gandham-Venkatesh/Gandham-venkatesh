@@ -41,7 +41,7 @@ I'm currently pursuing my **Bachelor of Technology**, and I’m deeply intereste
 ### 📫 Let's Connect!
 
 - **Email**: [venkateshgandham1004@gmail.com](mailto:venkateshgandham1004@gmail.com)  
-- **GitHub**: [github.com/gandhamvenkatesh](https://github.com/gandham-venkatesh)
+- **GitHub**: [github.com/gandham-venkatesh](https://github.com/gandham-venkatesh)
 
 ---
 
