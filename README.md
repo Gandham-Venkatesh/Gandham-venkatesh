@@ -20,7 +20,7 @@ I'm currently pursuing my **Bachelor of Technology**, and I’m deeply intereste
 
 - **Languages**: Java, JavaScript, TypeScript, C, Python, HTML, CSS  
 - **Frontend**: HTML, CSS, JavaScript, React, React (TypeScript)  
-- **Backend**: Node.js, Flask, FastAPI  
+- **Backend**: Node.js, Express.js, Flask, FastAPI  
 - **Mobile**: Java for Android, Termux integration  
 - **AI & Tools**: TinyLLaMA, llama.cpp, n8n, LangChain (basics), Agentic AI systems  
 - **Databases**: SQLite, PostgreSQL (learning)  
@@ -41,42 +41,56 @@ I'm currently pursuing my **Bachelor of Technology**, and I’m deeply intereste
 
 ### 🧠 Projects
 
-- **🧩 CineRecommend – Full Stack Movie Recommender**  
-  A full-stack movie recommendation web app with **React (TypeScript)** frontend and **Flask REST API** backend.  
-  - JWT Authentication  
-  - Personalized AI-based recommendation engine  
-  - Modern, responsive UI  
-  - Built for scalability and user experience
+#### 🧩 CineRecommend – Full Stack Movie Recommender  
+A full-stack movie recommendation web app with **React (TypeScript)** frontend and **Flask REST API** backend.  
+- JWT Authentication  
+- Personalized AI-based recommendation engine  
+- Modern, responsive UI  
+- Built for scalability and user experience
 
-- **🧠 Offline GPT**  
-  Fully offline AI chat app using **Android + Termux + TinyLLaMA**  
-  - Integrated FastAPI + llama.cpp for local inference  
-  - Dynamic timer based on token count  
-  - No internet required at all  
+#### 🧠 Offline GPT  
+Fully offline AI chat app using **Android + Termux + TinyLLaMA**  
+- Integrated FastAPI + llama.cpp for local inference  
+- Dynamic timer based on token count  
+- No internet required at all  
 
-- **⏱️ HardType**  
-  Typing speed game in vanilla JS  
-  - 30-second countdown  
-  - Real-time WPM tracking  
-  - Keyboard interaction + feedback
+#### 🌦️ Weather Forecast API  
+A backend REST API using **Node.js + Express** that fetches real-time weather data via the OpenWeatherMap API.  
+- Clean and structured JSON responses  
+- Secure API key handling using dotenv  
+- Graceful error handling for bad queries  
+- Built to demonstrate core backend concepts
 
-- **🎮 Pokémon App**  
-  A fun, responsive React app with **PokéAPI** integration  
-  - Fetches and displays Pokémon stats, types, images  
-  - Built with reusable React components
+#### ✅ Node.js CLI To-Do List App  
+A command-line to-do list tool built with **Node.js** using `inquirer`, `yargs`, and `fs`.  
+- Add, list, complete, and delete tasks  
+- JSON-based local storage  
+- Fully interactive CLI with prompts and ID handling  
+- Great showcase of file system usage and CLI design
 
-- **🎵 Chitra – Mini Music Player**  
-  Simple music player built using JavaScript  
-  - Preloaded song playlist  
-  - Play/pause + UI enhancements
+#### ⏱️ HardType  
+Typing speed game in vanilla JS  
+- 30-second countdown  
+- Real-time WPM tracking  
+- Keyboard interaction + feedback
 
-- **🧪 Funny Tools**  
-  Collection of JavaScript mini-tools  
-  - Password Generator (funny + strong)  
-  - Fake Hacker Terminal simulation
+#### 🎮 Pokémon App  
+A fun, responsive React app with **PokéAPI** integration  
+- Fetches and displays Pokémon stats, types, images  
+- Built with reusable React components
 
-- **📝 Basic Todo App**  
-  Add/delete task manager with clean UI
+#### 🎵 Chitra – Mini Music Player  
+Simple music player built using JavaScript  
+- Preloaded song playlist  
+- Play/pause + UI enhancements
+
+#### 🧪 Funny Tools  
+Collection of JavaScript mini-tools  
+- Password Generator (funny + strong)  
+- Fake Hacker Terminal simulation
+
+#### 📝 Basic Todo App  
+Add/delete task manager with clean UI
 
 ---
 
