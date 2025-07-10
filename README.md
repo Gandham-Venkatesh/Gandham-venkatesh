@@ -1,6 +1,6 @@
 # Hey there! I'm Gandham Venkatesh
 
-### 🚀 Passionate Developer | 🛠️ Tech Explorer | 🎓 B.Tech 3rd Year Student
+### 🚀 Passionate Developer | 🛠️ Tech Explorer | 🎓 B.Tech 4th Year Student
 
 I'm currently pursuing my **Bachelor of Technology**, and I’m deeply interested in everything from **AI** to **Android & Full Stack Development**. I love building real-world projects and experimenting with offline AI tools.
 
@@ -9,7 +9,7 @@ I'm currently pursuing my **Bachelor of Technology**, and I’m deeply intereste
 ### ✨ About Me
 - **Name**: Gandham Venkatesh  
 - **Email**: [sparkyvenkat999@gmail.com](mailto:sparkyvenkat999@gmail.com)  
-- **Year**: 3rd Year B.Tech  
+- **Year**: 4th Year B.Tech  
 - **Focus**: Building useful tools, exploring AI, Android & Web Dev  
 - **LinkedIn**: [linkedin.com/in/venkateshgandham](https://linkedin.com/in/venkateshgandham)  
 - **GitHub**: [github.com/gandham-venkatesh](https://github.com/gandham-venkatesh)
